@@ -1,4 +1,4 @@
-import React, { memo, useContext, useState } from 'react';
+import React, { useContext, useState } from 'react';
 import type { Task } from '../../../App/types';
 import { appContext } from '../../../context';
 
